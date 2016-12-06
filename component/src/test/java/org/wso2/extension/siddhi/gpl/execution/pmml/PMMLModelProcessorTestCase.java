@@ -16,7 +16,7 @@
  * under the License.
  */
 
-package org.wso2.extension.siddhi.execution.pmml;
+package org.wso2.extension.siddhi.gpl.execution.pmml;
 
 import org.junit.Before;
 import org.junit.Test;

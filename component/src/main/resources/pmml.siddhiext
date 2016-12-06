@@ -16,4 +16,4 @@
 # under the License.
 #
 
-predict=org.wso2.extension.siddhi.execution.pmml.PmmlModelProcessor
+predict=org.wso2.extension.siddhi.gpl.execution.pmml.PmmlModelProcessor
